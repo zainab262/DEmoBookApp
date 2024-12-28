@@ -1,0 +1,28 @@
+#nav{
+    background-color: pink;
+    padding: 2rem;
+    font-size: 30px;
+    
+}
+#navlink{
+    text-align: right;
+}
+#navlink>a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+}
+#login{
+    border:  1px solid black;
+    margin: auto ;
+    margin-top: 6rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    text-align: center;
+}
+#login>input{
+    font-size: 1.5rem;
+}
+

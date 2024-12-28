@@ -1,0 +1,1 @@
+ export const baseurl="https://honey-natural-gallium.glitch.me";
